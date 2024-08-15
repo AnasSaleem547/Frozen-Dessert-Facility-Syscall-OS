@@ -1,8 +1,8 @@
-#Frozen Dessert Facility Simulation System
-#Introduction
+**Frozen Dessert Facility Simulation System**
+**Introduction**
 The Frozen Dessert Facility Simulation System is a project aimed at simulating the operations of an ice cream shop, leveraging operating system principles to manage inventory and enhance customer service. This simulation demonstrates the practical application of threads and system calls to prevent race conditions and ensure resource synchronization, contributing to the overall operational efficiency of the shop.
 
-#Features
+**Features**
 Customer Interaction: Customers can interact with the ice cream parlor by selecting their preferred flavor and topping.
 Concurrency: Multithreading is implemented using POSIX threads (pthreads), allowing multiple customers to be served concurrently.
 Mutexes: Mutexes ensure thread safety when accessing shared resources, such as flavor and topping availability, as well as total revenue.
