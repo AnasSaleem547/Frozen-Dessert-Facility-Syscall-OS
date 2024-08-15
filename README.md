@@ -20,7 +20,7 @@ The **Frozen Dessert Facility Simulation System** is a project aimed at simulati
 - **VMware Workstation 17:** A virtual machine environment was created using VMware Workstation 17.
 - **Linux (Ubuntu):** The system runs on Ubuntu, a popular Linux distribution.
 
-##How To Implement SYS Call
+## How To Implement SysCall
 
 - **Clone:** Clone this repository into your pc or simply download it to get our codes.
 - **Video:** Watch this youtube video (https://youtu.be/qcsKGWshRZE?si=MwP88MRMZLpw8t-d) for properly implementing custom SysCall.
