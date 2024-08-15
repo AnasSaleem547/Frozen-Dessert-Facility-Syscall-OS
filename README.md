@@ -1,4 +1,5 @@
 **Frozen Dessert Facility Simulation System**
+
 **Introduction**
 The Frozen Dessert Facility Simulation System is a project aimed at simulating the operations of an ice cream shop, leveraging operating system principles to manage inventory and enhance customer service. This simulation demonstrates the practical application of threads and system calls to prevent race conditions and ensure resource synchronization, contributing to the overall operational efficiency of the shop.
 
