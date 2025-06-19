@@ -36,4 +36,7 @@ By simulating the operations of an ice cream shop, this project provides:
 - **Enhanced Customer Satisfaction:** Demonstrating the impact of system efficiency on user experience.
 - **Practical Application:** A real-world example of managing concurrency, preventing race conditions, and ensuring resource synchronization.
 
- 
+# Contributors
+Thanks to the following people for their contributions:
+
+- **[@bilal-ahmed-khan7412](https://github.com/bilal-ahmed-khan7412)** 
